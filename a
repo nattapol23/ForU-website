@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+<style>
+    body {
+    background: pink;
+    border: solid 2px purple;
+
+}
+h1 {
+    color:  white;
+    font-size: 50px;
+}
+p {
+    color: white;
+    font-size: 25px;
+}
+span {
+    color: red;
+}
+div {
+    text-align: center;
+}
+.pig {
+    width: 25%;
+}
+.sound {
+    text-align: center;
+}
+</style>
+</head>
+<body>
+    <div>
+        <h1>ForU</h1>
+        <p>เธอเก่งมากเลยนะที่ผ่านเรื่องร้ายๆมาได้
+        <p>แล้วเธอก็ไม่ต้องคิดมากนะ</p>
+        <p>ในวันที่เธอไม่เหลือใคร</p>
+        <p>เธอยังมีเราอยู่ข้างๆนะ</p>
+        <img class="pig" src="pic/large-PhotoRoom.png-PhotoRoom.png">
+        <br>
+        <audio controls autoplay loop>
+            <source src="music/Henry Moodie - pick up the phone (official video).mp3" type="audio/mp3">
+        </audio>
+    </div>
+    </body>
